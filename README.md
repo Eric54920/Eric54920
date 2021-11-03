@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Eric 👋
 
-<!--
-**Eric54920/Eric54920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I'm working in Hangzhou as a Pythoner.
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric54920&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric54920&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
