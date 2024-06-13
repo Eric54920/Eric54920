@@ -8,8 +8,8 @@ Now I'm working in Hangzhou as a Pythoner.
   
   <code><img height="20" src="./icons/html.png"></code>
   <code><img height="20" src="./icons/css.png"></code>
-  <code><img height="20" src="./icons/javascript.png"></code>
-  <code><img height="20" src="./icons/vue.png"></code>
+  <code><img height="20" src="./icons/JavaScript.png"></code>
+  <code><img height="20" src="./icons/Vue.png"></code>
   <code><img height="20" src="./icons/bootstrap.png"></code>
   <code><img height="20" src="./icons/tailwindcss.png"></code>
   
@@ -29,7 +29,7 @@ Now I'm working in Hangzhou as a Pythoner.
 - **DataBase**
 
   <code><img height="20" src="./icons/mysql.png"></code>
-  <code><img height="20" src="./icons/redis.png"></code>
+  <code><img height="20" src="./icons/Redis.png"></code>
   <code><img height="20" src="./icons/sqlite.png"></code>
   <code><img height="20" src="./icons/pgsql.png"></code>
   <code><img height="20" src="./icons/mongo.png"></code>
