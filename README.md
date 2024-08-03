@@ -1,37 +1,35 @@
+
 ### Hi there, I'm Eric 👋
 
-Now I'm working in Hangzhou as a Pythoner.
+```Python
+class Eric:
 
-**Languages and Tools:**  
+    def __init__(self):
+        self.username = 'Eric54920'
+        self.name = 'Eric'
+        self.profession = 'Full Stack Developer'
+        self.position = 'Hangzhou, China'
+        self.email = 'realmaguodong@outlook.com'
+        self.blog = 'https://theguodong.com'
+        self.hobby = ['Photograph', 'Travel']
+        self.code = {
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'Go', 'Gin'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Vuejs', 'Boostrap', 'Tailwind'],
+            'tools': ['GIT', 'GitHub', 'Nginx']
+        }
+        self.social = {
+            'github': 'https://github.com/Eric54920',
+            'instagram': 'https://www.instagram.com/_ericphotograph',
+            'x': 'https://x.com/realmaguodong'
+        }
 
-- **Front End**
-  
-  <code><img height="20" src="./icons/html.png"></code>
-  <code><img height="20" src="./icons/css.png"></code>
-  <code><img height="20" src="./icons/JavaScript.png"></code>
-  <code><img height="20" src="./icons/Vue.png"></code>
-  <code><img height="20" src="./icons/bootstrap.png"></code>
-  <code><img height="20" src="./icons/tailwindcss.png"></code>
-  
-- **Back End**
+    def __str__(self):
+        return f'{self.name} | {self.position}'
 
-  <code><img height="20" src="./icons/python.png"></code>
-  <code><img height="20" src="./icons/django.png"></code>
-  <code><img height="20" src="./icons/flask.png"></code>
-  <code><img height="20" src="./icons/369tornado.png"></code>
-  <code><img height="20" src="./icons/fastapi.png"></code>
-  <code><img height="20" src="./icons/golang.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></code>
-  <code><img height="20" src="./icons/docker.png"></code>
-  <code><img height="20" src="./icons/linux.png"></code>
-  <code><img height="20" src="./icons/ubuntu_.png"></code>
-  
-- **DataBase**
 
-  <code><img height="20" src="./icons/mysql.png"></code>
-  <code><img height="20" src="./icons/Redis.png"></code>
-  <code><img height="20" src="./icons/sqlite.png"></code>
-  <code><img height="20" src="./icons/pgsql.png"></code>
-  <code><img height="20" src="./icons/mongo.png"></code>
-
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric54920&show_icons=true&theme=default&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric54920&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+if __name__ == '__main__':
+    me = Eric()
+    print(me)
+```
