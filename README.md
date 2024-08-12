@@ -16,7 +16,7 @@ class Eric:
             'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'Go', 'Gin'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
             'devops': ['Docker', 'Linux'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Vuejs', 'Boostrap', 'Tailwind'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Vuejs', 'Bootstrap', 'Tailwind'],
             'tools': ['GIT', 'GitHub', 'Nginx']
         }
         self.social = {
