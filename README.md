@@ -17,7 +17,7 @@ class Eric:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
             'devops': ['Docker', 'Linux'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Vuejs', 'Bootstrap', 'Tailwind'],
-            'tools': ['GIT', 'GitHub', 'Nginx']
+            'tools': ['Git', 'GitHub', 'Nginx']
         }
         self.social = {
             'github': 'https://github.com/Eric54920',
