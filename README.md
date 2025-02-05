@@ -12,12 +12,12 @@ class Eric:
         self.email = 'realmaguodong@outlook.com'
         self.blog = 'https://theguodong.com'
         self.hobby = ['Photograph', 'Travel']
-        self.code = {
-            'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'Go', 'Gin'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux'],
+        self.skills = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Vuejs', 'Bootstrap', 'Tailwind'],
-            'tools': ['Git', 'GitHub', 'Nginx']
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'Go', 'Gin'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Nginx'],
+            'tools': ['Git', 'GitHub']
         }
         self.social = {
             'github': 'https://github.com/Eric54920',
